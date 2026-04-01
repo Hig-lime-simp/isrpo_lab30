@@ -1,0 +1,2 @@
+[*.cs]
+csharp_new_linr_before_open_brace = none
